@@ -1,4 +1,4 @@
-/* Custom Stylesheet */
+ Custom Stylesheet */
 /**
  * Use this file to override Materialize files so you can update
  * the core Materialize files in the future
@@ -58,4 +58,9 @@ footer.page-footer {
 
 h5 {
   color: black;
+}
+
+/*not sure how to give the icons margins without messing up the parallax image*/
+/*.socialIcons {
+  margin-top: auto;
 }
