@@ -16,7 +16,7 @@ p {
 }
 
 .button-collapse {
-  color: #26a69a;
+  color: grey;
 }
 
 .parallax-container {
@@ -56,10 +56,18 @@ footer.page-footer {
   margin: 0;
 }
 
+h1 {
+  color: white;
+  text-shadow: 8px 8px 8px red;
+}
+
 h5 {
   color: black;
 }
 
+/*h6 {
+  float: center;
+}*/
 
 /*.socialIcons {
   margin-top: 10px;
