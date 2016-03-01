@@ -70,7 +70,12 @@ h6 {
 }
 
 .btn {
-  margin-left: 165px;
+  margin-left: 155px;
+}
+
+.modal {
+  width: 80%; !important
+  height: 75%; !important
 }
 
 /*h6 {
