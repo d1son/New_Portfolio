@@ -65,6 +65,14 @@ h5 {
   color: black;
 }
 
+h6 {
+  color: white;
+}
+
+.btn {
+  margin-left: 165px;
+}
+
 /*h6 {
   float: center;
 }*/
