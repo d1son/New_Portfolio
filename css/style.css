@@ -60,7 +60,10 @@ h5 {
   color: black;
 }
 
-/*not sure how to give the icons margins without messing up the parallax image*/
-/*.socialIcons {
-  margin-top: auto;
+img {
+  margin-top: 10px;
 }
+
+/*.socialIcons {
+  margin-top: 10px;
+}*/
